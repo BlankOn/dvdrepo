@@ -1,0 +1,3 @@
+
+
+./dvdrepo.sh DIST ARCH
